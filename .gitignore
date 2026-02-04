@@ -7,3 +7,5 @@ __pycache__/
 .vscode/
 gisdata/
 .virtual_documents/
+/.quarto/
+_book
