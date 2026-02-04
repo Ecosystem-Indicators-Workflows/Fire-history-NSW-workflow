@@ -18,7 +18,7 @@ def md_download(metadata_url):
 
 def md_desc(metadata, show_keys = ['title','lineage']):
     '''
-    Simple function to print basic from seed
+    Simple function to print basic metadata from seed
     '''
     for keyname in show_keys:
         if keyname in metadata['result'].keys():
